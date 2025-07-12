@@ -74,40 +74,40 @@ Java Mini Project/
 ---
 
 ## 📷 Screenshots
-![WhatsApp Image 2025-07-12 at 07 59 58_41113ac1](https://github.com/user-attachments/assets/b7fa30c3-ac38-4cc5-b43d-7b89231a2039)
+![WhatsApp Image 2025-07-12 at 07 59 58_40f1f3e3](https://github.com/user-attachments/assets/b67ce576-5fea-4056-aa48-9c1a145c1ec4)
 
 Sign Up Page 
-![WhatsApp Image 2025-07-12 at 07 59 57_bdebb224](https://github.com/user-attachments/assets/bb4d0728-f6fa-49c4-9bf3-57ada72cff35)
+![WhatsApp Image 2025-07-12 at 07 59 57_aac65903](https://github.com/user-attachments/assets/a826cc7e-53e1-400a-ae19-8336b8422aa3)
 
 Sign In Page
-![WhatsApp Image 2025-07-12 at 07 59 57_30da77e0](https://github.com/user-attachments/assets/a3791e85-7b31-49e2-a784-237d718bda0a)
+![WhatsApp Image 2025-07-12 at 07 59 57_3ceacc52](https://github.com/user-attachments/assets/701924cb-6d28-4cdb-bf81-c9e37674a179)
 
 Home Page 
-![WhatsApp Image 2025-07-12 at 08 00 05_8926fb4d](https://github.com/user-attachments/assets/f1679166-436c-4c78-9c5a-35505a2b4211)
+![WhatsApp Image 2025-07-12 at 08 00 05_24f1804c](https://github.com/user-attachments/assets/7e01a727-a3df-4452-a6ac-6dc6836f07ae)
 
 Number of Seats 
-![WhatsApp Image 2025-07-12 at 08 00 04_3befc91d](https://github.com/user-attachments/assets/9b0fc3c5-739b-431d-ae06-70c2dcf4c16d)
+![WhatsApp Image 2025-07-12 at 08 00 04_f8b24031](https://github.com/user-attachments/assets/501881f4-9705-4ef1-ab10-77c857fc169a)
 
 Select seats 
-![WhatsApp Image 2025-07-12 at 08 00 03_9b959488](https://github.com/user-attachments/assets/54202d0a-e700-4cdb-a122-72785ef87534)
+![WhatsApp Image 2025-07-12 at 08 00 03_6f581249](https://github.com/user-attachments/assets/12536701-1e95-40d5-802c-3e8f3f0e6c50)
 
 Sample Booking Summary
-![WhatsApp Image 2025-07-12 at 08 00 03_9493b712](https://github.com/user-attachments/assets/6c26ff9a-cf75-4ca5-8975-1f9546a9c5bd)
+![WhatsApp Image 2025-07-12 at 08 00 03_5b7b3753](https://github.com/user-attachments/assets/0b784181-76c3-4679-bd0d-2be22d40b7d8)
 
 Admin Dashboard 
-![WhatsApp Image 2025-07-12 at 08 00 01_cf52ab89](https://github.com/user-attachments/assets/24d652d3-0197-4786-9ef9-77a1515e4acc)
+![WhatsApp Image 2025-07-12 at 08 00 01_6b13cf43](https://github.com/user-attachments/assets/1847890c-8c71-44b6-b5c7-000f587981a9)
 
 Adding Movies 
-![WhatsApp Image 2025-07-12 at 08 00 01_4cf913ae](https://github.com/user-attachments/assets/df33acd2-0754-464e-a1c4-c44881c4c167)
+![WhatsApp Image 2025-07-12 at 08 00 01_5a0e63a6](https://github.com/user-attachments/assets/9f348d63-d81d-4f73-a865-a53cf140cb74)
 
 Update/Delete Movie 
-![WhatsApp Image 2025-07-12 at 08 00 00_3a179137](https://github.com/user-attachments/assets/16a8c4d7-95cd-4815-b0fe-ce7ba60e16f8)
+![WhatsApp Image 2025-07-12 at 08 00 00_1ffb6167](https://github.com/user-attachments/assets/77c71e74-7760-4f41-b739-64fc6fe64e85)
 
 Update Page 
-![WhatsApp Image 2025-07-12 at 08 00 00_ed0e9dff](https://github.com/user-attachments/assets/a5b02608-250a-462f-b1a1-8e8c5c022f0d)
+![WhatsApp Image 2025-07-12 at 08 00 00_f2a3cd7a](https://github.com/user-attachments/assets/2bfe5b27-796d-4513-915a-4353e5d2290e)
 
 Delete Page
-![WhatsApp Image 2025-07-12 at 07 59 59_af36ae0c](https://github.com/user-attachments/assets/5fa5123b-52f9-4798-891d-80721343589c)
+![WhatsApp Image 2025-07-12 at 07 59 59_866e7677](https://github.com/user-attachments/assets/d8353e62-f470-47c8-a902-bf3ad79b67dd)
 
 ---
 
